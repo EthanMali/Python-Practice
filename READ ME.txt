@@ -1,0 +1,28 @@
+Snake Game
+
+Description
+This Snake game is a classic arcade-style game built using Python.
+ It features a simple yet addictive gameplay where the player controls a 
+snake that grows in length as it consumes food while avoiding collisions with walls and its own body.
+
+-----------------------------------------
+
+How to Play
+
+
+Controls:
+
+Use the arrow keys (Up, Down, Left, Right) to control the movement of the snake.
+
+
+Objective:
+
+Eat the red squares (food) to grow longer.
+Avoid running into the walls or colliding with the snake's own body, which ends the game.
+
+
+
+Game Over:
+
+The game ends when the snake collides with a wall or itself.
+Your final score will be displayed, and you can choose to play again.
